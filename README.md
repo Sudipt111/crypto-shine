@@ -1,0 +1,2 @@
+# crypto-shine
+demo project
